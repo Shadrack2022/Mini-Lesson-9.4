@@ -1,5 +1,5 @@
 
-## Repository for Activities 9.1 and 9.2
+
 ![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
 
 
